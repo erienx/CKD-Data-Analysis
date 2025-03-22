@@ -9,5 +9,5 @@ The project involves both the static analysis of a given dataset and the creatio
 
 **1. Download the project from github.**
 
-**2. Open the **main.ipynb** file.**
+**2. Open the **main.ipynb** file in Jupyter Notebook or any compatible environment**
 
